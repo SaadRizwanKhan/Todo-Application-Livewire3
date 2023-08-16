@@ -1,6 +1,6 @@
 Run the following commands
 
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
+<p>composer install</p>
+<p>cp .env.example .env</p>
+<p>php artisan key:generate</p>
+<p>php artisan migrate</p>
